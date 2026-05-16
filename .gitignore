@@ -1,0 +1,9 @@
+__pycache__
+WIP
+TODO.md
+.DS_Store
+rule_modules.egg-info/PKG-INFO
+rule_modules.egg-info/requires.txt
+rule_modules.egg-info/SOURCES.txt
+rule_modules.egg-info/dependency_links.txt
+rule_modules.egg-info/top_level.txt
